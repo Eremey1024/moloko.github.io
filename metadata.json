@@ -1,0 +1,6 @@
+{
+  "name": "Молоко-Про",
+  "description": "Приложение для учета сбора молока и автоматизации работы молокосборщиков",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
